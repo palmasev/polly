@@ -1,0 +1,269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"command",
+				"commandTester"
+			],
+			[
+				"Command",
+				"CommandTester"
+			],
+			[
+				"Create",
+				"CreateCommand"
+			],
+			[
+				"arti",
+				"articulo"
+			],
+			[
+				"artic",
+				"articulos"
+			],
+			[
+				"up",
+				"uploadedFile"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"En",
+				"Entities"
+			],
+			[
+				"ti",
+				"tipos"
+			],
+			[
+				"STATIC",
+				"STATIC_URL"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"djan",
+				"django"
+			],
+			[
+				"uploa",
+				"upload_to"
+			],
+			[
+				"pro",
+				"probar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"name",
+				"Insert PHP namespace"
+			],
+			[
+				"names",
+				"Insert PHP namespace"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 719.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/palma/trabajo/symfony2/polly/app/config/parameters.yml",
+		"/home/palma/trabajo/symfony2/polly/web/app.php",
+		"/home/palma/trabajo/symfony2/polly/app/AppCache.php",
+		"/home/palma/trabajo/nexo/encuestador/lib/Swift/Connection/SMTP.php",
+		"/home/palma/Escritorio/Dolor en el talón (talalgia) - Fascitis Plantar ~ TRITIM - TRIATLON ROSARIO.html",
+		"/home/palma/trabajo/silex_basic_project/Tests/Command/CreateCommandTest.php",
+		"/home/palma/trabajo/silex_basic_project/Command/CreateCommand.php",
+		"/home/palma/trabajo/silex_basic_project/Tests/bootstrap.php",
+		"/home/palma/trabajo/silex_basic_project/phpunit.xml",
+		"/home/palma/trabajo/silex_basic_project/vendor/symfony/console/Symfony/Component/Console/Tester/CommandTester.php",
+		"/home/palma/trabajo/silex_basic_project/Tests/Command/CreateCommand.php",
+		"/home/palma/trabajo/boletines/composer.json",
+		"/home/palma/trabajo/boletines/src/GestorBoletines/Controllers/Manager.php",
+		"/home/palma/trabajo/boletines/views/manager/articulos/edit.html.twig",
+		"/home/palma/trabajo/boletines/src/GestorBoletines/Entities/Articulo.php",
+		"/home/palma/trabajo/boletines/vendor/palma/DoctrineORMServiceProvider/lib/Palma/Silex/Provider/DoctrineORMServiceProvider.php",
+		"/home/palma/trabajo/boletines/views/manager/articulos/list.html.twig",
+		"/home/palma/trabajo/boletines/views/manager/boletines/list.html.twig",
+		"/home/palma/trabajo/boletines/web/index.php",
+		"/home/palma/trabajo/boletines/src/GestorBoletines/Entities/Proxies/__CG__GestorBoletinesEntitiesArticulo.php",
+		"/home/palma/trabajo/boletines/src/GestorBoletines/Entities/Proxies/__CG__GestorBoletinesEntitiesBoletin.php",
+		"/home/palma/trabajo/boletines/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/UploadedFile.php",
+		"/home/palma/trabajo/boletines/web/.htaccess",
+		"/home/palma/trabajo/boletines/src/GestorBoletines/Entities/Boletin.php",
+		"/home/palma/trabajo/boletines/web/assets/js/manager/articulos/edit.js",
+		"/home/palma/trabajo/boletines/vendor/autoload.php",
+		"/home/palma/trabajo/boletines/.htaccess",
+		"/home/palma/trabajo/boletinesApel/wysiwyg.js",
+		"/home/palma/.config/sublime-text-2/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/palma/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/palma/trabajo/boletinesApel/boletinesApel.sublime-workspace",
+		"/home/palma/trabajo/android/lidl_sever/index.php",
+		"/home/palma/trabajo/android/workspace/ilearning_android_phonegap/assets/www/js/stargate.js",
+		"/home/palma/trabajo/android/workspace/ilearning_android_phonegap/assets/www/js/controller.js",
+		"/home/palma/trabajo/android/workspace/ilearning_android_phonegap/src/com/formaciondigital/ilearning/mainActivity.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toolbar",
+			"smtp",
+			"Resources",
+			"die('entra');",
+			"            ",
+			"entradilla",
+			"privat $that;\n    public function __construct() {\n        $this->t\n    }",
+			"	",
+			"app",
+			".messages"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true
+}
